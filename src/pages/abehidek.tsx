@@ -71,7 +71,7 @@ export default function Vinicius() {
             </div>
           </div>
 
-          <div className="h-32 py-4">
+          <div className="h-48 py-4">
             <h2 className="mb-2 text-2xl font-bold">Education 📚</h2>
             <ul className="space-y-1 text-gray-500 list-disc list-inside">
               <li>
@@ -90,7 +90,6 @@ export default function Vinicius() {
               <li>Role Playing Games and world building</li>
               <li>Online Gaming</li>
               <li>Manga, Anime and novels</li>
-              <li>Music</li>
               <li>Physics and Science in-general</li>
             </ul>
           </div>
