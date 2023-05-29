@@ -29,13 +29,13 @@ export default function Vinicius() {
                 width={100}
                 height={100}
                 alt="img"
-                src="/android.png"
+                src="/android.jpg"
                 className="max-h-full p-1 bg-blue-200 rounded-full"
               />
             </div>
             <div className="col-span-7 flex flex-col justify-center items-start h-36">
               <a
-                href="https://ventura.monkeydevs.org/"
+                href="https://viniciusventura.vercel.app/"
                 className="text-3xl font-bold"
                 target={"_blank"}
               >
@@ -118,13 +118,23 @@ export default function Vinicius() {
               </li>
               <li>
                 <a
-                  href="https://ventura.monkeydevs.org/"
+                  href="https://viniciusventura.vercel.app/"
                   target={"_blank"}
                   className="hover:text-blue-500"
                 >
                   <strong>Personal website</strong> -My personal website, that
                   contain my blog, a little bit about me and also some projects
                   that I developed
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://books-2-beryl.vercel.app/"
+                  target="__blank"
+                  className="hover:text-blue-500"
+                >
+                  <strong>The Books</strong> - This is website was developed to
+                  help people to organize themself with they personal tasks.
                 </a>
               </li>
             </ul>
