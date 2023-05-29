@@ -104,7 +104,7 @@ export default function Vinicius() {
                 <strong>Nix-config</strong> - A centralized system for all computers, packages, shells of my workflow using Nix and Linux.
               </li>
               <li>
-                <strong>Compartilhando Sucessos</strong> - A web-plataform to host the event "Compartilhando Sucessos" made by GS/OIS-LA and C/FIO-LA.
+                <strong>Compartilhando Sucessos</strong> - A web-plataform to host the event Compartilhando Sucessos made by GS/OIS-LA and C/FIO-LA.
               </li>
               <li>
                 <strong>Boschview</strong> - ETS project manager for all students and instructors
